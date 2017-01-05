@@ -1,0 +1,5 @@
+name: 'Hello world'
+description: 'new module custom, is an example'
+package: Custom
+type: module
+core: 8.x
